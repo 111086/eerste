@@ -15,3 +15,10 @@ body {
 h1 {
     background-color: burlywood;
 }
+
+h1 {
+    border-style: dashed;
+    border-width: 3px;
+  
+    border-color: red;
+}
