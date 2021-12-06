@@ -27,4 +27,5 @@ h1 {
 h1{
   border-bottom:rgb(139, 0, 0) 10px solid}
  
-h1 {letter-spacing: 0.5em }
+h1 {letter-spacing:10px }
+h1 {  text-align: center}
