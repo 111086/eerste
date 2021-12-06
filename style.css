@@ -10,7 +10,7 @@ body {
 
 body {
     color: beige;
-    background-color: darkseagreen;
+    background-color: black;
 }
 h1 {
     background-color: red;
@@ -20,12 +20,12 @@ h1 {
     padding: 20px
 }
 
-.intro {
-    color: red;
-    font-weight: bold;
-}
+
 h1{
   border-bottom:rgb(139, 0, 0) 10px solid}
  
 h1 {letter-spacing:10px }
 h1 {  text-align: center}
+
+h2 {background-color: green}
+.cocomelk{color: black}
