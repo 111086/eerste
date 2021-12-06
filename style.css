@@ -29,3 +29,13 @@ h1 {  text-align: center}
 
 h2 {background-color: green}
 .cocomelk{color: black}
+a:active {
+    color: red;
+}
+
+a:hover {
+    text-decoration:none ;
+    color: blue;
+    background-color: purple;
+}
+
