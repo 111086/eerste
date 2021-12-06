@@ -13,12 +13,16 @@ body {
     background-color: darkseagreen;
 }
 h1 {
-    background-color: burlywood;
+    background-color: red;
+}
+#top {
+    background-color: #ccc;
+    padding: 20px
 }
 
-h1 {
-    border-style: dashed;
-    border-width: 3px;
-  
-    border-color: red;
+.intro {
+    color: red;
+    font-weight: bold;
 }
+h1{
+  border-bottom: darkred 10px solid}
