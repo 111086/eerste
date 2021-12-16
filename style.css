@@ -36,7 +36,21 @@ h1 {
     font: italic bold 20px/2 courier;
 }
 body {
-    background: black url(http://www.htmldog.com/images/bg.gif) no-repeat top right;
+    background: rgb(223, 149, 149) url(http://www.htmldog.com/images/bg.gif) no-repeat top right;
+}
+  li:after {
+    content: " :) ";
+    p:before 
+}
+#navigation {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 250px;
+}
+
+#content {
+    margin-left: 250px;
 }
 
 
