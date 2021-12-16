@@ -35,7 +35,9 @@ a:active {
 h1 {
     font: italic bold 20px/2 courier;
 }
-
+body {
+    background: black url(http://www.htmldog.com/images/bg.gif) no-repeat top right;
+}
 
 
 
