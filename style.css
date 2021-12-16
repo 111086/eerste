@@ -27,15 +27,17 @@ h1{
 h1 {letter-spacing:10px }
 h1 {  text-align: center}
 
-h2 {background-color: green}
+h2 {background-color: darkred}
 .cocomelk{color: black}
 a:active {
     color: red;
 }
-
-a:hover {
-    text-decoration:none ;
-    color: blue;
-    background-color: purple;
+h1 {
+    font: italic bold 20px/2 courier;
 }
+
+
+
+
+
 
